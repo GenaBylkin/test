@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="#8BC34A"
         android:backgroundTint="@color/white"
-        android:text="Hello World!"
+        android:text="My firs git hub project"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
